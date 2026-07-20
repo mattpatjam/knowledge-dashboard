@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Knowledge Dashboard</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Cormorant:ital,wght@0,300;0,400;0,600;1,300;1,400;1,600&family=DM+Sans:opsz,wght@9..40,300;9..40,400;9..40,500&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="layout">
+    <aside class="sidebar">
+      <div class="sidebar-header">
+        <h1 class="brand">Knowledge<br>Dashboard</h1>
+        <p class="brand-sub">Book framework library</p>
+      </div>
+      <nav id="category-nav" aria-label="Categories"></nav>
+    </aside>
+    <main class="main">
+      <div class="mode-tabs" role="tablist" aria-label="Dashboard mode">
+        <button class="mode-tab active" type="button" data-mode="search" role="tab" aria-selected="true">Search</button>
+        <button class="mode-tab" type="button" data-mode="ask" role="tab" aria-selected="false">Ask AI</button>
+      </div>
+
+      <div class="search-wrap" id="search-panel">
+        <input type="search" id="search-input" placeholder="Search frameworks, sections, ideas..." autocomplete="off" aria-label="Search">
+        <div id="search-meta" class="search-meta"></div>
+      </div>
+      <div id="results"></div>
+
+      <div class="ask-wrap" id="ask-panel" hidden>
+        <textarea id="ask-input" placeholder="Ask a question across the books in the current category..." rows="3"></textarea>
+        <div class="ask-controls">
+          <span id="ask-scope" class="ask-scope"></span>
+          <button id="ask-submit" type="button">Ask</button>
+        </div>
+        <div id="ask-status" class="ask-status"></div>
+        <div id="ask-answer" class="ask-answer"></div>
+      </div>
+    </main>
+  </div>
+  <script src="data.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>
