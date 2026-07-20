@@ -54,10 +54,10 @@ Warm Outreach is contacting people who already know you and asking not "do you w
 6. **Ask for the referral, not the sale** — "do you know anyone who...", not "do you want to..."
 7. **Make the ask trivially easy to accept** — the lowest-friction version of your offer (e.g. free first uses)
 8. **Prioritize your best contacts first**
-9. **Raise your price as you gain traction** — a suggested rule of raising price ~20% every five clients once referrals start flowing
+9. **Start charging** — once early free/donation-based clients get results, transition them to paying customers, then begin charging new prospects directly rather than working for free
 10. **Keep the list warm over time** — periodic value delivery, then a low-friction re-engagement message
 
-A specific re-engagement tool is the **nine-word email**: "Are you still looking to [achieve result]?" — sent to a warm list to surface who is ready to act now; the replies become your priority outreach list.
+A specific re-engagement tool is the **nine-word email** (credited to Dean Jackson): "Are you still looking to [4-word desire]?" — sent to a warm list to surface who is ready to act now; the replies become your priority outreach list.
 
 **The ACA framework** for warming up a reply before pitching:
 - **Acknowledge** — restate what they said, in your own words, to show you're listening
@@ -66,7 +66,9 @@ A specific re-engagement tool is the **nine-word email**: "Are you still looking
 
 People enjoy talking about themselves and being complimented; ACA builds trust quickly while keeping you in control of where the conversation goes.
 
-**Benchmark math for warm outreach:** roughly 100 reach-outs produce ~20 replies (1-in-5), 20 replies produce ~4 people willing to try a free/low-friction offer (1-in-5), and those 4 produce roughly 1 paying customer — i.e., a floor of about 1 customer per 100 warm reach-outs.
+**Getting more cash up front:** offering a guarantee only to prospects who pay in full up front (rather than on a payment plan) increases both commitment and cash collected — framed to the prospect as a choice: "would you rather pay less today [payment plan, no guarantee] or get all your money back [pay up front, with a guarantee]?" Most people choose the up-front option once it's framed this way.
+
+**Volume rule ("Count in 100s"):** don't set a daily outreach goal below 100 attempts, and don't stop before 100 days straight — the book states plainly that 100 reach-outs a day for 100 days will produce new engaged leads.
 
 ---
 
@@ -92,7 +94,13 @@ Two sequencing strategies for scaling across platforms: **Depth then Width** (ma
 
 ## 6. Cold Outreach
 
-Cold Outreach is contacting strangers who match your target avatar, one at a time, without the benefit of an existing relationship. It is inherently a volume game with a lower per-contact response rate than warm outreach, so message volume and disciplined, repeated follow-up (most replies arrive on the third through fifth message, not the first) are the primary levers. The call to action should read as a genuine, low-pressure question rather than a pitch — asking whether something would be useful to the recipient, not asking them to buy.
+Cold Outreach is contacting strangers who match your target avatar, one at a time, without the benefit of an existing relationship. Unlike warm outreach, trust doesn't exist yet, so the order of problems to solve is: get a way to contact them, figure out what to say, then contact them repeatedly until they're ready and able to listen. It is inherently a volume game — the book's own benchmark math, from real campaigns:
+
+- **Phone:** 100 cold calls/day, ~20% pick-up rate, ~25% of those take the lead magnet → roughly 4 engaged leads for that day's calling.
+- **Email:** 100 personalized emails/day, ~30% open rate, ~10% reply rate → roughly 3 engaged leads (3% of the list).
+- A cold-calling team example: paying $15/hour plus $50 per shown appointment, with leads costing $0.10 each, 200 calls/day yielding ~2 shows/day, works out to about $120 cost per show; at a 33% close rate and $3,600 profit per sale, that's roughly a 10:1 return.
+
+Personalization (referencing something specific and real about the prospect) is what gets a cold message read at all — one tested rewrite of a cold outreach script to below a third-grade reading level produced a 50% lift in response rate. Follow-up matters more than the first message: contacting someone multiple times, multiple ways, communicates seriousness and increases response. The call to action should read as a genuine, low-pressure question rather than a pitch — asking whether something would be useful to the recipient, not asking them to buy.
 
 ---
 
