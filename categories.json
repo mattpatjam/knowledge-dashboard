@@ -8,6 +8,7 @@
   { "slug": "hr", "displayName": "HR", "driveFolderName": "HR" },
   { "slug": "coaching-and-training", "displayName": "Coaching & Training", "driveFolderName": "Coaching_and_Training" },
   { "slug": "negotiation-and-closing", "displayName": "Negotiation & Closing", "driveFolderName": "Negotiation_and_Closing" },
+  { "slug": "sales", "displayName": "Sales", "driveFolderName": "Sales" },
   { "slug": "leadership-and-management", "displayName": "Leadership & Management", "driveFolderName": "Leadership_and_Management" },
   { "slug": "systems-and-operations", "displayName": "Systems & Operations", "driveFolderName": "Systems_and_Operations" },
   { "slug": "fundraising-equity-and-deal-structuring", "displayName": "Fundraising, Equity & Deal Structuring", "driveFolderName": "Fundraising_Equity_and_Deal_Structuring" }

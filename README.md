@@ -1,10 +1,10 @@
 # Knowledge Dashboard
 
-A browsable, searchable library of framework references distilled from 75 business/self-help books across 12 categories, plus an optional AI research assistant that answers questions grounded in the same content.
+A browsable, searchable library of framework references distilled from 79 business/self-help books across 13 categories, plus an optional AI research assistant that answers questions grounded in the same content.
 
 ## Browse and search (no setup)
 
-Just open `index.html` in a browser — double-click it, or drag it into a browser window. Everything (all 75 books, ~1,070 sections) is baked into `data.js`, so it works fully offline, with no server, no build step, and no account.
+Just open `index.html` in a browser — double-click it, or drag it into a browser window. Everything (all 79 books, ~1,135 sections) is baked into `data.js`, so it works fully offline, with no server, no build step, and no account.
 
 ## Ask AI (requires an Anthropic API key)
 
@@ -24,4 +24,4 @@ Reference docs live in `books/<category>/*.md`, one file per book, each followin
 python3 build.py
 ```
 
-`categories.json` defines the 12 categories; `book-list.md` tracks which books belong in each one.
+`categories.json` defines the 13 categories; `book-list.md` tracks which books belong in each one.

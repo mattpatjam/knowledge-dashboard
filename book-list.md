@@ -91,13 +91,22 @@ Curated list for sourcing — titles/authors only, no files included. Books to b
 - **Never Split the Difference** by Chris Voss & Tahl Raz — The former FBI hostage negotiator's playbook, the dominant modern negotiation book (tactical empathy, calibrated questions).
 - **Getting to Yes** by Roger Fisher & William Ury — The Harvard Negotiation Project classic that defined principled negotiation; the academic standard for 40+ years. Kept over Ury's own sequel, "Getting Past No," which covers the same ground.
 - **Bargaining for Advantage** by G. Richard Shell — The Wharton negotiation course in book form, the most respected systematic treatment of negotiation strategy.
-- **SPIN Selling** by Neil Rackham — The largest research study ever done on selling (35,000 sales calls), the foundation of consultative and question-based selling.
-- **The Challenger Sale** by Matthew Dixon & Brent Adamson — The defining modern B2B sales book, built on CEB's large-scale research into top performers.
 - **Pitch Anything** by Oren Klaff — The most cited book on frame control and high-stakes pitching, standard in capital-raising and big-ticket sales.
+
+## 10. Sales
+
+Split out of Negotiation & Closing in October 2026. That category keeps the encounter (tactics for the conversation where terms get agreed); this one holds the system (how reps get hired, trained, measured, and how pipeline gets built).
+
+- **SPIN Selling** by Neil Rackham — The largest research study ever done on selling (35,000 sales calls), the foundation of consultative and question-based selling.
 - **The Qualified Sales Leader** by John McMahon — The definitive modern book on enterprise sales qualification (MEDDPICC), replaces the dated positional-bargaining and high-pressure-closing titles this category carried before.
 - **Predictable Revenue** by Aaron Ross & Marylou Tyler — The Salesforce outbound bible (Cold Calling 2.0), the standard reference on building a dedicated SDR/prospecting engine separate from closing.
+- **Sales Management. Simplified.** by Mike Weinberg — The foundational read on team structure, recruiting, comp and accountability; the starting point of the Sales Team 2.0 track.
+- **The Sales Acceleration Formula** by Mark Roberge — HubSpot's CRO on the quantitative hiring formula and training ramp, the data-driven counterpart to Weinberg's management book.
+- **Fanatical Prospecting** by Jeb Blount — The setter-specific tactical playbook on opening conversations and filling pipeline, read last once setters are actually in seats.
+- **New Sales. Simplified.** by Mike Weinberg — Weinberg's new-business-development handbook: target account selection, power statements, and the prospecting call itself.
+- **The Challenger Sale** by Matthew Dixon & Brent Adamson — The defining modern B2B sales book, built on CEB's large-scale research into top performers. *Not yet in Drive.*
 
-## 10. Leadership & Management
+## 11. Leadership & Management
 
 - **The 7 Habits of Highly Effective People** by Stephen R. Covey — One of the best-selling leadership books ever; its vocabulary is embedded in management culture worldwide.
 - **The Effective Executive** by Peter F. Drucker — The classic from the father of modern management, still the reference on executive self-management.
@@ -109,11 +118,11 @@ Curated list for sourcing — titles/authors only, no files included. Books to b
 - **Radical Candor** by Kim Scott — The current standard on feedback and people management, adopted as a management framework across industries.
 - **Rework** by Jason Fried & David Heinemeier Hansson — Basecamp's founders on running lean, remote, and asynchronous, the modern counterweight to the traditional corporate-management canon this category leaned on.
 
-## 11. Systems & Operations
+## 12. Systems & Operations
 
 - **Traction** by Gino Wickman — The standard operating system (EOS) for turning founder-led chaos into repeatable process; the most direct fit for the systemization gap this list was missing.
 - **The E-Myth Revisited** by Michael Gerber — The foundational case for why being great at the work doesn't mean you're great at running the business, the classic argument for building systems instead of grinding harder.
 
-## 12. Fundraising, Equity & Deal Structuring
+## 13. Fundraising, Equity & Deal Structuring
 
 - **Venture Deals** by Brad Feld & Jason Mendelson — The standard reference on term sheets, cap tables, vesting schedules and ESOPs, written for the operator side of the table rather than the investor side.
